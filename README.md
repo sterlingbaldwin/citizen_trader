@@ -1,5 +1,8 @@
 # citizen_trader
-A trade optimizer for StarCitizen
+A trade optimizer for StarCitizen.
+
+Writen by GeneralPandamonium, using trade data from Commander Haas.
+https://docs.google.com/spreadsheets/d/1t7W9GV8XETgkX6em6uAOEx7QMQFZwQpHqRRPqqGXDrE/edit#gid=0
 
 Given an imput file with trade data, find the most lucrative single hope trade route.
 
