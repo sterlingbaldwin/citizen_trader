@@ -1,3 +1,11 @@
+"""
+A trade route optimizer for StarCitizen
+
+Trade data based on the fantastic spreadsheet from Commander Haas
+https://docs.google.com/spreadsheets/d/1t7W9GV8XETgkX6em6uAOEx7QMQFZwQpHqRRPqqGXDrE/edit#gid=0
+
+Written by Sterling Baldwin
+"""
 import argparse
 import json
 
